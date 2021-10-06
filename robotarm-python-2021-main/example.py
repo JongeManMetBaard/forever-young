@@ -10,3 +10,5 @@ robotArm.drop();
 
 # Na jouw code wachten tot het sluiten van de window:
 robotArm.wait()
+
+# Werk!!!!!!!!!!!!!!!!!!!!
